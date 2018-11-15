@@ -1,0 +1,29 @@
+C:\Users\pallavi.bhatt\Downloads\ESupportLatest\MyESupportDev\eSupport\eSupport.BL\obj\Debug\eSupport.Core.csprojResolveAssemblyReference.cache
+C:\Users\pallavi.bhatt\Downloads\ESupportLatest\MyESupportDev\eSupport\eSupport.BL\bin\Debug\eSupport.BL.dll
+C:\Users\pallavi.bhatt\Downloads\ESupportLatest\MyESupportDev\eSupport\eSupport.BL\bin\Debug\eSupport.BL.pdb
+C:\Users\pallavi.bhatt\Downloads\ESupportLatest\MyESupportDev\eSupport\eSupport.BL\bin\Debug\eSupport.Core.dll
+C:\Users\pallavi.bhatt\Downloads\ESupportLatest\MyESupportDev\eSupport\eSupport.BL\bin\Debug\eSupport.DAL.dll
+C:\Users\pallavi.bhatt\Downloads\ESupportLatest\MyESupportDev\eSupport\eSupport.BL\bin\Debug\eSupport.Core.pdb
+C:\Users\pallavi.bhatt\Downloads\ESupportLatest\MyESupportDev\eSupport\eSupport.BL\bin\Debug\eSupport.DAL.pdb
+C:\Users\pallavi.bhatt\Downloads\ESupportLatest\MyESupportDev\eSupport\eSupport.BL\obj\Debug\eSupport.BL.dll
+C:\Users\pallavi.bhatt\Downloads\ESupportLatest\MyESupportDev\eSupport\eSupport.BL\obj\Debug\eSupport.BL.pdb
+C:\Users\bhatpa\Downloads\Desktop (2)\Desktop\ESupportLatest\MyESupportDev\eSupport\eSupport.BL\bin\Debug\eSupport.BL.dll
+C:\Users\bhatpa\Downloads\Desktop (2)\Desktop\ESupportLatest\MyESupportDev\eSupport\eSupport.BL\bin\Debug\eSupport.BL.pdb
+C:\Users\bhatpa\Downloads\Desktop (2)\Desktop\ESupportLatest\MyESupportDev\eSupport\eSupport.BL\bin\Debug\eSupport.Core.dll
+C:\Users\bhatpa\Downloads\Desktop (2)\Desktop\ESupportLatest\MyESupportDev\eSupport\eSupport.BL\bin\Debug\eSupport.DAL.dll
+C:\Users\bhatpa\Downloads\Desktop (2)\Desktop\ESupportLatest\MyESupportDev\eSupport\eSupport.BL\bin\Debug\eSupport.Core.pdb
+C:\Users\bhatpa\Downloads\Desktop (2)\Desktop\ESupportLatest\MyESupportDev\eSupport\eSupport.BL\bin\Debug\eSupport.DAL.pdb
+C:\Users\bhatpa\Downloads\Desktop (2)\Desktop\ESupportLatest\MyESupportDev\eSupport\eSupport.BL\obj\Debug\eSupport.Core.csprojResolveAssemblyReference.cache
+C:\Users\bhatpa\Downloads\Desktop (2)\Desktop\ESupportLatest\MyESupportDev\eSupport\eSupport.BL\obj\Debug\eSupport.BL.dll
+C:\Users\bhatpa\Downloads\Desktop (2)\Desktop\ESupportLatest\MyESupportDev\eSupport\eSupport.BL\obj\Debug\eSupport.BL.pdb
+C:\Users\kumasuje\Downloads\ESupportLatest\ESupportLatest\MyESupportDev\eSupport\eSupport.BL\bin\Debug\eSupport.BL.dll
+C:\Users\kumasuje\Downloads\ESupportLatest\ESupportLatest\MyESupportDev\eSupport\eSupport.BL\bin\Debug\eSupport.BL.pdb
+C:\Users\kumasuje\Downloads\ESupportLatest\ESupportLatest\MyESupportDev\eSupport\eSupport.BL\bin\Debug\eSupport.Core.dll
+C:\Users\kumasuje\Downloads\ESupportLatest\ESupportLatest\MyESupportDev\eSupport\eSupport.BL\bin\Debug\eSupport.DAL.dll
+C:\Users\kumasuje\Downloads\ESupportLatest\ESupportLatest\MyESupportDev\eSupport\eSupport.BL\bin\Debug\eSupport.Core.pdb
+C:\Users\kumasuje\Downloads\ESupportLatest\ESupportLatest\MyESupportDev\eSupport\eSupport.BL\bin\Debug\eSupport.DAL.pdb
+C:\Users\kumasuje\Downloads\ESupportLatest\ESupportLatest\MyESupportDev\eSupport\eSupport.BL\obj\Debug\eSupport.Core.csprojAssemblyReference.cache
+C:\Users\kumasuje\Downloads\ESupportLatest\ESupportLatest\MyESupportDev\eSupport\eSupport.BL\obj\Debug\eSupport.Core.csproj.CoreCompileInputs.cache
+C:\Users\kumasuje\Downloads\ESupportLatest\ESupportLatest\MyESupportDev\eSupport\eSupport.BL\obj\Debug\eSupport.Core.csproj.CopyComplete
+C:\Users\kumasuje\Downloads\ESupportLatest\ESupportLatest\MyESupportDev\eSupport\eSupport.BL\obj\Debug\eSupport.BL.dll
+C:\Users\kumasuje\Downloads\ESupportLatest\ESupportLatest\MyESupportDev\eSupport\eSupport.BL\obj\Debug\eSupport.BL.pdb

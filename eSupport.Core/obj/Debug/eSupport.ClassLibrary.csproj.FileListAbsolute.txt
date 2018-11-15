@@ -1,0 +1,16 @@
+C:\Users\pallavi.bhatt\Downloads\ESupportLatest\MyESupportDev\eSupport\eSupport.Core\bin\Debug\eSupport.Core.dll
+C:\Users\pallavi.bhatt\Downloads\ESupportLatest\MyESupportDev\eSupport\eSupport.Core\bin\Debug\eSupport.Core.pdb
+C:\Users\pallavi.bhatt\Downloads\ESupportLatest\MyESupportDev\eSupport\eSupport.Core\obj\Debug\eSupport.ClassLibrary.csprojResolveAssemblyReference.cache
+C:\Users\pallavi.bhatt\Downloads\ESupportLatest\MyESupportDev\eSupport\eSupport.Core\obj\Debug\eSupport.Core.dll
+C:\Users\pallavi.bhatt\Downloads\ESupportLatest\MyESupportDev\eSupport\eSupport.Core\obj\Debug\eSupport.Core.pdb
+C:\Users\bhatpa\Downloads\Desktop (2)\Desktop\ESupportLatest\MyESupportDev\eSupport\eSupport.Core\bin\Debug\eSupport.Core.dll
+C:\Users\bhatpa\Downloads\Desktop (2)\Desktop\ESupportLatest\MyESupportDev\eSupport\eSupport.Core\bin\Debug\eSupport.Core.pdb
+C:\Users\bhatpa\Downloads\Desktop (2)\Desktop\ESupportLatest\MyESupportDev\eSupport\eSupport.Core\obj\Debug\eSupport.Core.dll
+C:\Users\bhatpa\Downloads\Desktop (2)\Desktop\ESupportLatest\MyESupportDev\eSupport\eSupport.Core\obj\Debug\eSupport.Core.pdb
+C:\Users\bhatpa\Downloads\Desktop (2)\Desktop\ESupportLatest\MyESupportDev\eSupport\eSupport.Core\obj\Debug\eSupport.ClassLibrary.csprojResolveAssemblyReference.cache
+C:\Users\kumasuje\Downloads\ESupportLatest\ESupportLatest\MyESupportDev\eSupport\eSupport.Core\bin\Debug\eSupport.Core.dll
+C:\Users\kumasuje\Downloads\ESupportLatest\ESupportLatest\MyESupportDev\eSupport\eSupport.Core\bin\Debug\eSupport.Core.pdb
+C:\Users\kumasuje\Downloads\ESupportLatest\ESupportLatest\MyESupportDev\eSupport\eSupport.Core\obj\Debug\eSupport.ClassLibrary.csprojAssemblyReference.cache
+C:\Users\kumasuje\Downloads\ESupportLatest\ESupportLatest\MyESupportDev\eSupport\eSupport.Core\obj\Debug\eSupport.ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\kumasuje\Downloads\ESupportLatest\ESupportLatest\MyESupportDev\eSupport\eSupport.Core\obj\Debug\eSupport.Core.dll
+C:\Users\kumasuje\Downloads\ESupportLatest\ESupportLatest\MyESupportDev\eSupport\eSupport.Core\obj\Debug\eSupport.Core.pdb

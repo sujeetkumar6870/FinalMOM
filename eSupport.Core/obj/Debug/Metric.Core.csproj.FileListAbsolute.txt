@@ -1,0 +1,12 @@
+C:\Users\bhatpa\Documents\Visual Studio 2013\Projects\Jasmine\Metric.Core\bin\Debug\Metric.Core.dll
+C:\Users\bhatpa\Documents\Visual Studio 2013\Projects\Jasmine\Metric.Core\bin\Debug\Metric.Core.pdb
+C:\Users\bhatpa\Documents\Visual Studio 2013\Projects\Jasmine\Metric.Core\obj\Debug\Metric.Core.csprojResolveAssemblyReference.cache
+C:\Users\bhatpa\Documents\Visual Studio 2013\Projects\Jasmine\Metric.Core\obj\Debug\Metric.Core.dll
+C:\Users\bhatpa\Documents\Visual Studio 2013\Projects\Jasmine\Metric.Core\obj\Debug\Metric.Core.pdb
+C:\Users\bhatpa\Desktop\Jasmine\Metric.Core\bin\Debug\Metric.Core.dll
+C:\Users\bhatpa\Desktop\Jasmine\Metric.Core\bin\Debug\Metric.Core.pdb
+C:\Users\bhatpa\Desktop\Jasmine\Metric.Core\bin\Debug\Metric.Data.dll
+C:\Users\bhatpa\Desktop\Jasmine\Metric.Core\bin\Debug\Metric.Data.pdb
+C:\Users\bhatpa\Desktop\Jasmine\Metric.Core\obj\Debug\Metric.Core.csprojResolveAssemblyReference.cache
+C:\Users\bhatpa\Desktop\Jasmine\Metric.Core\obj\Debug\Metric.Core.dll
+C:\Users\bhatpa\Desktop\Jasmine\Metric.Core\obj\Debug\Metric.Core.pdb

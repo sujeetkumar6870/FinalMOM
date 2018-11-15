@@ -1,0 +1,9 @@
+C:\Users\pallavi.bhatt\Downloads\ESupportLatest\MyESupportDev\eSupport\eSupport.BL\obj\Debug\eSupport.BL.csprojResolveAssemblyReference.cache
+C:\Users\pallavi.bhatt\Downloads\ESupportLatest\MyESupportDev\eSupport\eSupport.BL\bin\Debug\eSupport.BL.dll
+C:\Users\pallavi.bhatt\Downloads\ESupportLatest\MyESupportDev\eSupport\eSupport.BL\bin\Debug\eSupport.BL.pdb
+C:\Users\pallavi.bhatt\Downloads\ESupportLatest\MyESupportDev\eSupport\eSupport.BL\bin\Debug\eSupport.Core.dll
+C:\Users\pallavi.bhatt\Downloads\ESupportLatest\MyESupportDev\eSupport\eSupport.BL\bin\Debug\eSupport.DAL.dll
+C:\Users\pallavi.bhatt\Downloads\ESupportLatest\MyESupportDev\eSupport\eSupport.BL\bin\Debug\eSupport.Core.pdb
+C:\Users\pallavi.bhatt\Downloads\ESupportLatest\MyESupportDev\eSupport\eSupport.BL\bin\Debug\eSupport.DAL.pdb
+C:\Users\pallavi.bhatt\Downloads\ESupportLatest\MyESupportDev\eSupport\eSupport.BL\obj\Debug\eSupport.BL.dll
+C:\Users\pallavi.bhatt\Downloads\ESupportLatest\MyESupportDev\eSupport\eSupport.BL\obj\Debug\eSupport.BL.pdb

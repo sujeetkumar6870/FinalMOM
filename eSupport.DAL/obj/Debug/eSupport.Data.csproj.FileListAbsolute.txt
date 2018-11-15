@@ -1,0 +1,23 @@
+C:\Users\pallavi.bhatt\Downloads\ESupportLatest\MyESupportDev\eSupport\eSupport.DAL\bin\Debug\eSupport.DAL.dll
+C:\Users\pallavi.bhatt\Downloads\ESupportLatest\MyESupportDev\eSupport\eSupport.DAL\bin\Debug\eSupport.DAL.pdb
+C:\Users\pallavi.bhatt\Downloads\ESupportLatest\MyESupportDev\eSupport\eSupport.DAL\bin\Debug\eSupport.Core.dll
+C:\Users\pallavi.bhatt\Downloads\ESupportLatest\MyESupportDev\eSupport\eSupport.DAL\bin\Debug\eSupport.Core.pdb
+C:\Users\pallavi.bhatt\Downloads\ESupportLatest\MyESupportDev\eSupport\eSupport.DAL\obj\Debug\eSupport.Data.csprojResolveAssemblyReference.cache
+C:\Users\pallavi.bhatt\Downloads\ESupportLatest\MyESupportDev\eSupport\eSupport.DAL\obj\Debug\eSupport.DAL.dll
+C:\Users\pallavi.bhatt\Downloads\ESupportLatest\MyESupportDev\eSupport\eSupport.DAL\obj\Debug\eSupport.DAL.pdb
+C:\Users\bhatpa\Downloads\Desktop (2)\Desktop\ESupportLatest\MyESupportDev\eSupport\eSupport.DAL\bin\Debug\eSupport.DAL.dll
+C:\Users\bhatpa\Downloads\Desktop (2)\Desktop\ESupportLatest\MyESupportDev\eSupport\eSupport.DAL\bin\Debug\eSupport.DAL.pdb
+C:\Users\bhatpa\Downloads\Desktop (2)\Desktop\ESupportLatest\MyESupportDev\eSupport\eSupport.DAL\bin\Debug\eSupport.Core.dll
+C:\Users\bhatpa\Downloads\Desktop (2)\Desktop\ESupportLatest\MyESupportDev\eSupport\eSupport.DAL\bin\Debug\eSupport.Core.pdb
+C:\Users\bhatpa\Downloads\Desktop (2)\Desktop\ESupportLatest\MyESupportDev\eSupport\eSupport.DAL\obj\Debug\eSupport.Data.csprojResolveAssemblyReference.cache
+C:\Users\bhatpa\Downloads\Desktop (2)\Desktop\ESupportLatest\MyESupportDev\eSupport\eSupport.DAL\obj\Debug\eSupport.DAL.dll
+C:\Users\bhatpa\Downloads\Desktop (2)\Desktop\ESupportLatest\MyESupportDev\eSupport\eSupport.DAL\obj\Debug\eSupport.DAL.pdb
+C:\Users\kumasuje\Downloads\ESupportLatest\ESupportLatest\MyESupportDev\eSupport\eSupport.DAL\bin\Debug\eSupport.DAL.dll
+C:\Users\kumasuje\Downloads\ESupportLatest\ESupportLatest\MyESupportDev\eSupport\eSupport.DAL\bin\Debug\eSupport.DAL.pdb
+C:\Users\kumasuje\Downloads\ESupportLatest\ESupportLatest\MyESupportDev\eSupport\eSupport.DAL\bin\Debug\eSupport.Core.dll
+C:\Users\kumasuje\Downloads\ESupportLatest\ESupportLatest\MyESupportDev\eSupport\eSupport.DAL\bin\Debug\eSupport.Core.pdb
+C:\Users\kumasuje\Downloads\ESupportLatest\ESupportLatest\MyESupportDev\eSupport\eSupport.DAL\obj\Debug\eSupport.Data.csprojAssemblyReference.cache
+C:\Users\kumasuje\Downloads\ESupportLatest\ESupportLatest\MyESupportDev\eSupport\eSupport.DAL\obj\Debug\eSupport.Data.csproj.CoreCompileInputs.cache
+C:\Users\kumasuje\Downloads\ESupportLatest\ESupportLatest\MyESupportDev\eSupport\eSupport.DAL\obj\Debug\eSupport.Data.csproj.CopyComplete
+C:\Users\kumasuje\Downloads\ESupportLatest\ESupportLatest\MyESupportDev\eSupport\eSupport.DAL\obj\Debug\eSupport.DAL.dll
+C:\Users\kumasuje\Downloads\ESupportLatest\ESupportLatest\MyESupportDev\eSupport\eSupport.DAL\obj\Debug\eSupport.DAL.pdb

@@ -1,0 +1,132 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="MasterPage.Master.cs" Inherits="eSupport.UI.Site1" %>
+
+<!DOCTYPE html>
+<html lang="en">
+<head runat="server">
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <!-- Meta, title, CSS, favicons, etc. -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>e-Support</title>
+
+
+
+    <link href="Content/bootstrap.min.css" rel="stylesheet" />
+
+    <link href="Content/font-awesome.min.css" rel="stylesheet" />
+
+    <link href="Content/nprogress.css" rel="stylesheet" />
+
+    <link href="Libs/Gentelella/css/custom.css" rel="stylesheet" />
+
+    <link href="Libs/iCheck/skins/flat/green.css" rel="stylesheet" />
+
+    <link href="Libs/bootstrap-progressbar/css/bootstrap-progressbar-3.3.4.min.css" rel="stylesheet" />
+
+    <!--DataTable-->
+    <link href="Libs/datatables.net-bs/css/dataTables.bootstrap.min.css" rel="stylesheet" />
+    <link href="Libs/datatables.net-buttons-bs/css/buttons.bootstrap.min.css" rel="stylesheet" />
+
+    <link href="Libs/Gentelella/css/custom.min.css" rel="stylesheet" />
+
+</head>
+<body class="nav-md">
+    <div class="container body">
+        <div class="main_container">
+            <div class="col-md-3 left_col">
+                <div class="left_col scroll-view">
+                    <div class="navbar nav_title" style="border: 0;">
+                        <a href="Index.aspx" class="site_title" runat="server"><i class="fa fa-university"></i> <span>E-Support</span></a>
+                    </div>
+                    <div class="clearfix"></div>
+                    <br />
+                    <!-- sidebar menu -->
+                    <div id="sidebar-menu" class="main_menu_side hidden-print main_menu">
+                        <div class="menu_section">
+                            <br />
+                            <ul class="nav side-menu">
+                                <li>
+                                    <a href="Index.aspx" runat="server"><i class="fa fa-home"></i><span> Home </span></a>
+                                </li>
+                                <li>
+                                    <a runat="server"><i class="fa fa-edit"></i> Forms <span class="fa fa-chevron-down"></span></a>
+                                    <ul class="nav child_menu">                                        
+                                        <li><a href="Applications.aspx" runat="server">Applications</a></li>
+                                        <li><a href="Servers.aspx" runat="server">Servers</a></li>                                        
+                                        <li><a href="MOM.aspx" runat="server">MOM</a></li>
+                                    </ul>
+                                </li>
+                                <li>
+                                    <a runat="server"><i class="fa fa-file-text"></i> Reports <span class="fa fa-chevron-down"></span></a>
+                                    <ul class="nav child_menu">
+                                        <li><a href="Incidents.aspx" runat="server">Incidents</a></li>
+                                        <li><a href="ServiceRequests.aspx" runat="server">Service Requests</a></li>
+                                        <li><a href="ChangeRequests.aspx" runat="server">Change Requests</a></li>
+                                        <li><a href="ProblemRecords.aspx" runat="server">Problem Records</a></li>
+                                    </ul>
+                                </li>
+                                <li>
+                                    <a runat="server"><i class="fa fa-clone"></i>Utility <span class="fa fa-chevron-down"></span></a>
+                                    <ul class="nav child_menu">
+                                        <li><a href="UserDetails.aspx" runat="server">Add User</a></li>
+                                        <li><a href="InProgress.html" runat="server">Upload HPSM data</a></li>
+                                    </ul>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                    <!-- /sidebar menu -->
+                </div>
+            </div>
+            <!-- top navigation -->
+            <div class="top_nav">
+                <div class="nav_menu">
+                    <nav>
+                        <div class="nav toggle">
+                            <a id="menu_toggle"><i class="fa fa-bars"></i></a>
+                        </div>
+                        <ul class="nav navbar-nav navbar-right">
+                            <li class="">
+                                <a href="javascript:;" class="user-profile dropdown-toggle" data-toggle="dropdown" aria-expanded="false" runat="server">
+                                    <img src="Images/Boral_Logo.png" alt="">
+                                    <asp:Label ID="ProfileName" runat="server" Text="Sujeet Kumar"></asp:Label>
+                                    <span class=" fa fa-angle-down"></span>
+                                </a>
+                                <ul class="dropdown-menu dropdown-usermenu pull-right">
+                                    <li><a href="javascript:;" runat="server"> Profile</a></li>
+                                    <li>
+                                        <a href="javascript:;" runat="server">
+                                            <span class="badge bg-red pull-right">50%</span>
+                                            <span>Settings</span>
+                                        </a>
+                                    </li>
+                                    <li><a href="javascript:;" runat="server">Help</a></li>
+                                    <li><a href="login.html" runat="server"><i class="fa fa-sign-out pull-right"></i> Log Out</a></li>
+                                </ul>
+                            </li>                            
+                        </ul>
+                    </nav>
+                </div>
+            </div>
+            <!-- /top navigation -->
+
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                         
+            </asp:ContentPlaceHolder>
+           
+              <!-- footer content -->
+            <footer>
+                <div class="row">
+                <div class="col-xs-12 pull-right">
+                    <p>&copy; <%: DateTime.Now.Year %> -  Designed and developed by Boral Application Support Team</p>
+                </div>
+                    </div>
+                <div class="clearfix"></div>
+            </footer>
+            <!-- /footer content -->
+        </div>
+    </div>    
+</body>
+</html>
+
